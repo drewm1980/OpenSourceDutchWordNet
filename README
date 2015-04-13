@@ -1,4 +1,4 @@
 http://wordpress.let.vupr.nl/odwn/
 
-
+#update 13-4-2015: /Data/odwn_orbn-LMF.xml.gz now contains 'source' attribute in SynsetRelation element
 #update 31-3-2015: added script to create dutch synonym dict (can be found in Scripts folder)
